@@ -1,5 +1,2 @@
-hola que tal 
-holi
-si
-Linea agregada desde la rama master
-cambio testing
+copia del repositorio modificada 
+con git clone
